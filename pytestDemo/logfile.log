@@ -1,0 +1,28 @@
+2024-10-30 15:33:10,967 : INFO : pytestDemo.test_logging : An info statement is executed
+2024-10-30 15:33:10,967 : WARNING : pytestDemo.test_logging : Warning executed
+2024-10-30 15:33:10,967 : ERROR : pytestDemo.test_logging : error occured
+2024-10-30 15:33:10,967 : CRITICAL : pytestDemo.test_logging : critical issue
+2024-10-30 15:43:18,383 : INFO : pytestDemo.BaseClass : An info statement is executed
+2024-10-30 15:43:18,383 : WARNING : pytestDemo.BaseClass : Warning executed
+2024-10-30 15:43:18,383 : ERROR : pytestDemo.BaseClass : error occured
+2024-10-30 15:43:18,383 : CRITICAL : pytestDemo.BaseClass : critical issue
+2024-10-30 15:43:18,383 : INFO : pytestDemo.BaseClass : Yusuf
+2024-10-30 15:43:18,383 : INFO : pytestDemo.BaseClass : Tas
+2024-10-30 15:47:16,367 : INFO : pytestDemo.BaseClass : An info statement is executed
+2024-10-30 15:47:16,367 : WARNING : pytestDemo.BaseClass : Warning executed
+2024-10-30 15:47:16,367 : ERROR : pytestDemo.BaseClass : error occured
+2024-10-30 15:47:16,367 : CRITICAL : pytestDemo.BaseClass : critical issue
+2024-10-30 15:47:16,367 : INFO : pytestDemo.BaseClass : Yusuf
+2024-10-30 15:47:16,367 : INFO : pytestDemo.BaseClass : Tas
+2024-10-30 15:48:33,267 : INFO : test_editProfile : An info statement is executed
+2024-10-30 15:48:33,267 : WARNING : test_editProfile : Warning executed
+2024-10-30 15:48:33,267 : ERROR : test_editProfile : error occured
+2024-10-30 15:48:33,267 : CRITICAL : test_editProfile : critical issue
+2024-10-30 15:48:33,267 : INFO : test_editProfile : Yusuf
+2024-10-30 15:48:33,267 : INFO : test_editProfile : Tas
+2024-10-30 15:50:02,929 : INFO : test_editProfile : An info statement is executed
+2024-10-30 15:50:02,929 : WARNING : test_editProfile : Warning executed
+2024-10-30 15:50:02,929 : ERROR : test_editProfile : error occured
+2024-10-30 15:50:02,929 : CRITICAL : test_editProfile : critical issue
+2024-10-30 15:50:02,929 : INFO : test_editProfile : Yusuf
+2024-10-30 15:50:02,929 : INFO : test_editProfile : Tas
